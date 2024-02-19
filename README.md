@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on College Studies and habilities<br>🌱 I’m currently learning Java, Frontend, IA tecnologies, and others.<br>👨‍💻 All of my projects are available at https://github.com/Agustinm28<br>📫 How to reach me agustinm28@gmail.com<br>⚡ Fun fact, I dont like olives
+🔭 I’m currently working on College Studies and habilities<br>🌱 I’m currently learning C#, Frontend, IA tecnologies, and others.<br>👨‍💻 All of my projects are available at https://github.com/Agustinm28<br>📫 How to reach me agustinm28@gmail.com<br>⚡ Fun fact, I dont like olives
 
 
 ## 🌐 Socials:
